@@ -1,6 +1,9 @@
 # Distarve
 Extension to use Discord in Starve.io.
 
+# Support
+https://discord.gg/VEunzuW
+
 # How to Install
 1. Install [tampermonkey](https://tampermonkey.net/) or [violentmonkey](https://violentmonkey.github.io/)
 2. Install [Distarve userscript](https://github.com/Awazon/Distarve/raw/master/ext_distarve.user.js)
