@@ -6,6 +6,7 @@
 // @match        http*://starve.io/
 // @require　　　https://raw.githubusercontent.com/discordjs/discord.js/webpack/discord.11.5.1.min.js
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js
+// @downloadURL  https://github.com/Awazon/Distarve/raw/master/ext_distarve.user.js
 // @grant        none
 // ==/UserScript==
 
