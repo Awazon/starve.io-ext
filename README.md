@@ -23,5 +23,5 @@ Extension to use Discord in Starve.io.
 
 # How to get channel id
 1. Open discord in browser
-2. "https://discordapp.com/channels/~~/~~" 
-                                        ↑ This is channel id
+2. "https://discordapp.com/channels/~/~" The last number is the channel ID
+Example : "https://discordapp.com/channels/656114955178737703/657597911663771677" channel ID : 657597911663771677
