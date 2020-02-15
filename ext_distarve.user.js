@@ -101,9 +101,9 @@
     msgElem.style["position"] = "absolute";
     msgElem.style['width'] = "100%";
     msgElem.style['height'] = "80%";
-	  msgElem.style['background-color'] = setting.backgroundColor;
-	  msgElem.style['opacity'] = setting.opacity;
-	  msgElem.style['color'] = "black";
+    msgElem.style['background-color'] = setting.backgroundColor;
+    msgElem.style['opacity'] = setting.opacity;
+    msgElem.style['color'] = "black";
     msgElem.style['padding'] = "10px";
     msgElem.style['pointer-events'] = "auto";
     msgElem.style['overflow'] = "auto";
